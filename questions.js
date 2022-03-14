@@ -56,11 +56,11 @@ let questions = [
       correctAnswer: "C"
     },
     {
-      text: `Earth is located in which galaxy?
-        A. The Black Hole
-        B. The Milky Way Galaxy
-        C. The Mars Galaxy
-        D. The Galaxy Note`,
+      text: `How old was Luke in A New Hope?
+        A. 21
+        B. 19
+        C. 28
+        D. 25`,
       correctAnswer: "B"
     },
     {
