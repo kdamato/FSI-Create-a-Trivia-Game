@@ -1,58 +1,58 @@
 let questions = [
     {
-      text: `What is the first book of the Old Testament?
-        A. Leviticus
-        B. Numbers
-        C. Genesis
-        D. Exodus`,
+      text: `Who is Luke Skywalkers father?
+        A. Master Yoda
+        B. Old Ben/ Obi wan Kenobi
+        C. Darth Vader
+        D. Han Solo`,
       correctAnswer: "C"
     },
     {
-      text: `How would one say goodbye in Spanish?
-        A. Hola
-        B. Au Revoir
-        C. Salir
-        D. Adiós`,
+      text: `What planet does Luke meet Yoda?
+        A. Tatooine
+        B. Dathomir
+        C. Endor
+        D. Dagobah`,
       correctAnswer: "D"
     },
     {
-      text: `What is the French word for 'hat'?
-        A.  Casque
-        B. Chapeau
-        C. Bonnet
-        D. Écharpe`,
+      text: `Who is Anakin Skywalkers apprentice?
+        A. Padme
+        B. Ahsoka Tano
+        C. Mara Jade
+        D. Barriss Offee`,
       correctAnswer: "B"
     },
     {
-      text: `The New York Times slogan is, 'All the News That's Fit to...';
-        A. Digest
-        B. Look
-        C. Read
-        D. Print`,
+      text: `Who is Count Dookus first apprentice as a Sith?;
+        A. Savage Oppress
+        B. Darth Maul
+        C. General Grievous
+        D. Asajj Ventress`,
       correctAnswer: "D"
     },
     {
-      text: `Which restaurant's mascot is a clown?
-        A. Chick-Fil-A
-        B. Sonic
-        C. McDonald's
-        D. Whataburger`,
+      text: `Which group of clones were considered "defective"?
+        A. The 501st Legion
+        B. The 212th Attack Battalion
+        C. Clone Force 99
+        D. Bravo Squad`,
       correctAnswer: "C"
     },
     {
-      text: `Which of the following is the IATA code for Manchester Airport?
-        A. MAN
-        B. EGLL
-        C. LHR
-        D. EGCC`,
+      text: `At what age does Yoda pass away?
+        A. 900
+        B. 600
+        C. 1000
+        D. 55`,
       correctAnswer: "A"
     },
     {
-      text: `If you are caught 'Goldbricking', what are you doing wrong?
-        A. Stealing
-        B. Cheating
-        C. Slacking
-        D. Smoking`,
+      text: `Who created the rule of two?
+        A. Darth Sidious
+        B. Darth Malgus
+        C. Darth Bane
+        D. Darth Revan`,
       correctAnswer: "C"
     },
     {
@@ -64,19 +64,19 @@ let questions = [
       correctAnswer: "B"
     },
     {
-      text: `What are Panama hats made out of?
-        A. Silk
-        B. Hemp
-        C. Flax
-        D. Straw`,
+      text: `What planet has two suns?
+        A. Alderaan
+        B. Bespin
+        C. Mustafar
+        D. Tatooine`,
       correctAnswer: "D"
     },
     {
-      text: `What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?
-        A. Jet
-        B. Space Capsule
-        C. Helicopter
-        D. Stealth Blimp`,
+      text: `What species stole the plans to the Death Star?
+        A. Mon Calamari
+        B. Humans
+        C. Bothans
+        D. Rodians`,
       correctAnswer: "C"
     }
   ]

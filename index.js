@@ -14,9 +14,9 @@ function playGame() {
         if(userAnswer === question.correctAnswer){
         userScore = userScore + 10
         }
-    }
-    //Window Prompt-alert for final score
+//Window Prompt-alert for final score
     window.alert('Your score is: '+userScore)
+    }
 }
 
 //JS code to present player with option to play again-added window prompts to true(yes) and no(false) to begin again or end program
