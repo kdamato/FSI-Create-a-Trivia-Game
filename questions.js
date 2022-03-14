@@ -79,12 +79,4 @@ let questions = [
         D. Stealth Blimp`,
       correctAnswer: "C"
     }
-    {
-      text: `Who was Luke Skywalkers father?
-        A. Old Ben/Obi Wan Kenobi
-        B. Darth Vader
-        C. Han Solo
-        D. Yoda`,
-      correctAnswer: "B"
-    }
   ]
