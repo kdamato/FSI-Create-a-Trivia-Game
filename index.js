@@ -11,7 +11,7 @@ for(let i = 0; i < questions.length; i++){
     if(userAnswer === question.correctAnswer){
         userScore = userScore + 10
     }
+    //Window Prompt-alert for final score
+    window.alert('Your score is: '+userScore)
 }
 
-//Window Prompt-alert for final score
-window.alert('Your score is: '+userScore)
